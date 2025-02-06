@@ -1,0 +1,24 @@
+{
+  "originHash" : "352f2c9d98e68d21e2b5c331a234fdecee4f90a855bb647b16b78bc0f6c5fa62",
+  "pins" : [
+    {
+      "identity" : "alerttoast",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/elai950/AlertToast.git",
+      "state" : {
+        "revision" : "b39252eacd159904afd7d718bba0afabb87f2f2f",
+        "version" : "1.3.9"
+      }
+    },
+    {
+      "identity" : "popupview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/exyte/PopupView.git",
+      "state" : {
+        "revision" : "0e771e413cc4727dbdad9ed81f0d4713f271fc43",
+        "version" : "2.8.2"
+      }
+    }
+  ],
+  "version" : 3
+}
